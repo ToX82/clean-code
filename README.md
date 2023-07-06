@@ -48,3 +48,7 @@ Oltre ai linter, che evidenziano i problemi, ci sono delle utilities che possono
 * Questo comando prova a correggerli
 
 `stylelint "./webroot/css/custom.css" --fix`
+
+# Letture interessanti e altre risorse
+
+https://github.com/ryanmcdermott/clean-code-javascript
